@@ -1,0 +1,10 @@
+1. File Name : 
+    a. File Name should starts with Capital Letter
+    b. (Naming convention ) Pascal -> HelloWorld (this is for class)
+    - camelCasing -> myValue (this is for fields/variable)
+    c. java madhla public class & File Name same ch pahije
+
+2. java madhla public class & (File Name) same ch pahije
+    - public keyword - accessible from anywhere
+    - 1 file mdhe 1 ch public class asu shakto
+    - so
