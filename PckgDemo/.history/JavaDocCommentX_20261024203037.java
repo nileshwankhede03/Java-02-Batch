@@ -1,0 +1,8 @@
+
+/**
+ * JavaDocCommentX
+ */
+public class JavaDocCommentX {
+
+    
+}

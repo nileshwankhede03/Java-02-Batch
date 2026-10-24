@@ -1,0 +1,35 @@
+
+public class JavaDocCommentX {
+    /**
+     * @param value1 This will accept 1 integer
+     * @param value2 This will accept 1 integer
+     * @return it will return addition of 2 numbers
+     */
+    public static int addition(int value1, int value2) {
+        int ans = 0;
+        ans = value1 + value2; // this will add 2 integers
+        return ans;
+    }
+
+    /*
+    This is comment 1
+    This is comment 1
+    This is comment 1
+    This is comment 1
+    This is comment 1
+    This is comment 1
+    This is comment 1
+    This is comment 1
+    rsxycvubiojnibuyesrdtfyguhijoikp
+     */
+
+    public static void main(String[] args) {
+
+    }
+}
+
+// 3 types of comments
+
+// 1. single line comment
+// 2. Multi line comment
+// 3. Java Doc comment
