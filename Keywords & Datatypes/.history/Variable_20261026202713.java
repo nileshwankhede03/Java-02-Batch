@@ -1,0 +1,4 @@
+
+class Variable{
+    public static void main(String)
+}
