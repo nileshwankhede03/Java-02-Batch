@@ -15,7 +15,6 @@ class Variable {
         // Addition is : 30
     }
 
-
     public static void main(String[] args) {
         // int age = 23;
         // String name = "Mayur";

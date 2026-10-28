@@ -1,5 +1,22 @@
 
 class Datatype {
+    char ch;
+    int price;
+    String name;
+    Datatype datatype;
+
+    Datatype(char ch) {
+        this.ch = ch;
+        System.out.println("this is this reference : " + this);
+    }
+
+    void displayDefaultValue() {
+        System.out.println("default value of ch : " + ch);
+        System.out.println("default value of price : " + price);
+        System.out.println("default value of name : " + name);
+        System.out.println("default value of datatype : " + datatype);
+    }
+
     public static void main(String[] args) {
         // Datatype variable_name = any_value;
 
@@ -18,7 +35,6 @@ class Datatype {
 
         long value4 = 128L;
         System.out.println("datatype long ( L ) : " + value4);
-
 
         // Decimal Number (by fault double)
         // float,double
@@ -40,6 +56,13 @@ class Datatype {
         boolean nonVeg = false;
         System.out.println("datatype boolean (True) : " + veg);
         System.out.println("datatype boolean (False) : " + nonVeg);
+
+        Datatype obj = new Datatype('a');
+        System.out.println("this is object ref " + obj);
+        obj.displayDefaultValue();
+
+        // this is this reference : Datatype@7e9e5f8a
+        // this is object ref :     Datatype@7e9e5f8a
 
     }
 }
