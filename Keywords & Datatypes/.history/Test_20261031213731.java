@@ -1,0 +1,11 @@
+
+public class Test {
+    public static void main(String[] args) {
+        // Non - primitive data-type
+        
+        int a;
+        System.out.println();
+    }
+}
+
+// Non-Primitive by default value is -> Null
