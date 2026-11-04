@@ -1,0 +1,7 @@
+/**
+ * StringDemoClass
+ */
+public class StringDemoClass {
+
+    
+}

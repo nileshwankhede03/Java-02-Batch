@@ -1,0 +1,8 @@
+
+/**
+ * IdentityHashCode
+ */
+public class IdentityHashCode {
+
+    
+}
